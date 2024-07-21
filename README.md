@@ -1,18 +1,15 @@
-# Welcome to the GitHub Copilot Developer Training
+# Welcome to GitHub Copilot Training for QA Professionals
 
 Instructor: Andrew Scoppa
 
-Emails: v-ascoppa@microsoft.com andrew.scoppa@atmosera.com
+Email: andrew.scoppa@atmosera.com
 
 GH handle:  andrew-scoppa
 
 ## Materials
 
-[GitHub Copilot Developer](https://github.com/user-attachments/files/15917367/en-v2-github-copilot-developer.pdf)
 
-## Workshop
 
-[Self Paced Exercises for GitHub Copilot](https://github.com/Atmosera-CoPilot-Dev/self-paced)
 
 ## GitHub Copilot CLI
 

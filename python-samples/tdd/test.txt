@@ -1,0 +1,5 @@
+Create a Python unittest using PyTest for a function 'filterInts' that takes an array of ints 'nums' and a lambda expression 'strategy': number => boolean
+
+show a sample implementation of FilterInts that satisfies the test
+
+Create PyTest unit test for a Python class 'WordMix'  that contains a pmethod 'palindrome' that takes a string as an argument and returns true if the string can be read the same from right to left or left to right. Examples: bob => true, kayak => true, dad => true, boat => false, horse => false, car => false

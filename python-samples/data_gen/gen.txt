@@ -1,0 +1,7 @@
+I need sample hourly employee data that can be used as input for testing an Employee class. The sample should have a header row and 10 rows of data. The data should include the following columns: Employee ID, Department ID, First Name, Last Name, Hourly Rate. The data should be in a CSV file format.
+
+
+I need a sample JSON array of 10 rows of data. The data should include the following keys: EmployeeID, DepartmentID, FirstName, LastName, HourlyRate. 
+
+
+How would I consume this JSON data using Python?
