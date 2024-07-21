@@ -8,8 +8,7 @@ GH handle:  andrew-scoppa
 
 ## Materials
 
-
-
+[qa-copilot.pdf](https://github.com/user-attachments/files/16324790/qa-copilot.pdf)
 
 ## GitHub Copilot CLI
 
